@@ -1,0 +1,33 @@
+{
+  "name": "wawothemev1",
+  "displayName": "wawoThemev1",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wawov1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wawov1-color-theme.json"
+      }
+    ]
+  },
+  "icon":"icons/icon.png",
+  "author": {
+    "name": "Eduardo Meneses",
+    "email": "ermenesesdenis@gmail.com",
+    "url": "https://github.com/ermeneses/"
+  },
+  "repository": {
+    "url": "git remote add origin https://github.com/ermeneses/VsThemes.git",
+    "type": "git"
+  },
+  "publisher": "ermeneses"
+}
+
