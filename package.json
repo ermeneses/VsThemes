@@ -1,8 +1,8 @@
 {
-  "name": "wawothemev1",
-  "displayName": "wawoThemev1",
+  "name": "Corgi-Dark-Pastel",
+  "displayName": "Corgi-Dark-Pastel",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
