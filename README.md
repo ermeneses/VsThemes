@@ -1,5 +1,8 @@
-# wawothemev1 README
+# Corgi Dark Pastel VSCODE Theme
 
-## Working with Markdown
+![logo]
+(https://raw.githubusercontent.com/ermeneses/VsThemes/main/icons/icon.png)
 
-Tema creado por Eduardo Meneses
+
+
+Created by Eduardo Meneses
