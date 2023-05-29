@@ -2,7 +2,7 @@
   "name": "corgidarkpastel",
   "displayName": "Corgi-Dark-Pastel",
   "description": "",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -20,6 +20,11 @@
         "label": "corgiDarkPastel2",
         "uiTheme": "vs-dark",
         "path": "./themes/corgi-dark-pastel-2.json"
+      },
+      {
+        "label": "corgiDarkPastel3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/corgi-dark-pastel-3.json"
       }
     ]
   },
