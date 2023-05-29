@@ -2,7 +2,7 @@
   "name": "corgidarkpastel",
   "displayName": "Corgi-Dark-Pastel",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "corgiDarkPastel",
+        "label": "corgiDarkPastel1",
         "uiTheme": "vs-dark",
-        "path": "./themes/wawov1-color-theme.json"
+        "path": "./themes/corgi-dark-pastel-1.json"
+      },
+      {
+        "label": "corgiDarkPastel2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/corgi-dark-pastel-2.json"
       }
     ]
   },
