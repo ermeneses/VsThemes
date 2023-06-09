@@ -8,3 +8,4 @@
 ![preview3](https://raw.githubusercontent.com/ermeneses/VsThemes/main/icons/Captura%20de%20pantalla%202023-05-28%20191246.png)
 
 Created by Eduardo Meneses
+// vsce package

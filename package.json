@@ -1,8 +1,10 @@
+
+
 {
   "name": "corgidarkpastel",
   "displayName": "Corgi-Dark-Pastel",
   "description": "",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.78.0"
   },
