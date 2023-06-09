@@ -1,13 +1,33 @@
 {
 	"name": "corgidarkpastel1",
 	"colors": {
-		"editor.background": "#594a4e",
+		"editor.background": "#121824",
 		"editor.foreground": "#e7e7e7",
-		"activityBarBadge.background": "#c9dff8",
+		"editor.GroupHeader.tabsBar.background": "#121824",
+		"editor.selectionBackground": "#86e3952a",
+		"editor.selectionHighlightBackground": "#7400ff6a",
+		"editorWhitespace.foreground": "#ffffff00",
+		"editor.selectionHighlightBorder": "#9700ff",
+		"editor.inactiveSelectionBackground": "#ffffff00",
+		"editorBracketMatch.background": "#e7e7e700",
+		"editorBracketMatch.border": "#ffffff90",
+
+
+		"tab.activeBackground": "#FFF",
+		"tab.activeForeground": "#121824",
+		"tab.inactiveBackground": "#121824",
+		"editorGroupHeader.tabsBackground": "#121824",
+		"tab.inactiveForeground": "#d5d5d580",
+
+
+		"activityBarBadge.background": "#121824",
 		
-		"sideBarTitle.foreground": "#7b7a7a",
-		"sideBar.background": "#594a4e",
-		"titleBar.activeBackground": "#594a4e"
+		"sideBarTitle.foreground": "#121824",
+		"sideBar.background": "#121824",
+		"activityBar.background": "#121824",
+		"titleBar.activeBackground": "#121824",
+		"statusBar.background":"#121824",
+		
 	},
 	"tokenColors": [
 		{
@@ -141,7 +161,6 @@
 			}
 		},
 		{
-			// string aqui
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
@@ -157,20 +176,26 @@
 			}
 		},
 		{
-			// string aqui
 			"name": "text.html.derivative",
+			"scope": [
+				"text.html.derivative"
+			],
+			"settings": {
+				"foreground": "#e7e7e7"
+			}
+		},
+		{
+			"name": "CLASES CSS",
 			"scope": [
 				"string.quoted.double.html",
 				"meta.attribute.class.html",
-				"meta.tag.structure.div.start.html",
-				"text.html.derivative"
+				"meta.tag.structure.div.start.html"
 			],
 			"settings": {
 				"foreground": "#76aff1"
 			}
 		},
 		{
-			// string aqui
 			"name": "keys de objetos",
 			"scope": [
 				"meta.object-literal.key.js",
